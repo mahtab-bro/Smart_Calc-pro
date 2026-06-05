@@ -2,7 +2,7 @@
   SMARTCALC PRO — FULL SOURCE CODE MAP
   File: smartcalc_fixed.html  |  Total lines: 2149
   Author: Dusk Lab
-  Doc written by: Claude (Anthropic) — session tracker for solo dev
+  Doc written by: DUSK LAB — session tracker for solo dev
 ================================================================================
 
 QUICK REFERENCE — JUMP TABLE
@@ -1107,7 +1107,6 @@ QUICK REFERENCE — JUMP TABLE
   7. History is capped at 10 display entries, 50 keyboard nav entries.
      Both are arrays in _s, history also persisted to localStorage as 'sc3_hist'.
 
-================================================================================
+=============================================================================
   END OF DOCUMENT
-  Dusk Lab — stay poor, stay pure.
 ================================================================================
